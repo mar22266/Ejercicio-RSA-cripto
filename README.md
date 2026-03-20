@@ -4,8 +4,6 @@
 
 Lo que se hace en el ejercicio es usar RSA en un caso real. Incluye la generacion de claves, el cifrado y descifrado con RSA-OAEP, y tambien el uso de cifrado hibrido, donde RSA protege una clave AES y AES-GCM se encarga de cifrar el documento de forma mas rapida y segura.
 
-** Se sube el archivo de la llave privada para demostrar el fin del ejercicio, tomando en cuenta que es una mala practica y no debe de subirse en la practica real**
-
 ## Requisitos previos
 
 - Windows con Python instalado y accesible desde terminal.
